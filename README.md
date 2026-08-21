@@ -1,10 +1,17 @@
 # 💫 About Me:
-🔭 I'm currently working onScaling full-stack web services that eases human tasks.
+
+🔭 I'm currently working onScaling full-stack web services that eases human tasks.		
+
 👯 I'm looking to collaborate on Open-source projects considering Web Development and Machine Learning.
+
 🤝 I'm looking to help with System design patterns used to scale enterprise-level applications.
+
 🌱 I'm currently learning Advanced data structures, algorithm optimization, and big tech system architectures.
+
 💬 Ask me about Full-stack development, ML model deployment, or core DSA concepts.
+
 ⚡ Fun fact I build web tools that make machine learning models talk to the web.
+
 
 
 ## 🌐 Socials:
