@@ -63,7 +63,7 @@ I enjoy taking an idea from **problem definition → architecture → implementa
 
 ### Open To
 
-**Software Engineering Internships • SDE Roles • AI/ML Engineering • Full Stack Engineering • Backend Engineering • Open Source Collaboration**
+**Software Engineering Internships • SDE Roles • AI/ML Engineering • Full Stack Engineering • Backend Engineering • Data Analysis Operations •Open Source Collaboration**
 
 ---
 
