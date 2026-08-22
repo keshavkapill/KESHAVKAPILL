@@ -236,11 +236,27 @@ The project demonstrates understanding of **tokens, keywords, identifiers, liter
 
 ---
 
+
+
 ## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keshavkapil15/keshavkapil15/output/github-contribution-grid-snake.svg" width="95%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/keshavkapill/KESHAVKAPILL/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/keshavkapill/KESHAVKAPILL/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/keshavkapill/KESHAVKAPILL/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
