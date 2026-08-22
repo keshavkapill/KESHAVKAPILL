@@ -1,27 +1,367 @@
-# 💫 About Me:
+<div align="center">
 
-🔭 I'm currently working onScaling full-stack web services that eases human tasks.		
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312e81,50:6d28d9,100:4c1d95&text=Keshav%20Kapil&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
-👯 I'm looking to collaborate on Open-source projects considering Web Development and Machine Learning.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+%7C+Full+Stack;Building+Scalable%2C+Production-Ready+Systems;Turning+Complex+Problems+Into+Elegant+Solutions;Data+Structures+%7C+Algorithms+%7C+System+Design;Always+Learning.+Always+Building." alt="Typing SVG"/>
+</a>
 
-🤝 I'm looking to help with System design patterns used to scale enterprise-level applications.
+<br/>
 
-🌱 I'm currently learning Advanced data structures, algorithm optimization, and big tech system architectures.
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Computer%20Science-Engineering-4F46E5?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-7C3AED?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/India-111827?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" />
 
-💬 Ask me about Full-stack development, ML model deployment, or core DSA concepts.
+<br/><br/>
 
-⚡ Fun fact I build web tools that make machine learning models talk to the web.
+<a href="https://github.com/keshavkapil15">
+<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/keshavkapil15/">
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/keshavkapil15">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/keshavkapil15">
+<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=keshavkapil15&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/keshavkapil15?label=FOLLOWERS&style=for-the-badge&color=4F46E5&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/keshavkapil15?label=STARS&style=for-the-badge&color=7C3AED&labelColor=111827" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavkapil15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavkapil1509@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=keshavkapill&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ABOUT
+
+<div align="center">
+
+### Engineering Software. Solving Problems. Building Products.
+
+</div>
+
+I am a **software engineering-focused developer** interested in building reliable, scalable and maintainable systems across the intersection of **software engineering, artificial intelligence and full-stack development**.
+
+My engineering approach combines strong fundamentals in **Data Structures & Algorithms, object-oriented programming, backend architecture, databases, cloud computing and modern web development** with a product-oriented mindset.
+
+I enjoy taking an idea from **problem definition → architecture → implementation → optimization → deployment**, while keeping performance, security, maintainability and developer experience in mind.
+
+### Engineering Interests
+
+- **Software Engineering** — scalable architecture, clean code, algorithms and system design
+- **AI / ML** — intelligent applications, machine learning workflows and applied AI
+- **Full Stack Development** — responsive interfaces, APIs, databases and production-ready applications
+- **Backend Engineering** — REST APIs, authentication, data modeling and distributed-system fundamentals
+- **Cloud & DevOps** — deployment, containerization, CI/CD and cloud-native engineering
+- **Product Engineering** — solving real problems with measurable technical and user impact
+
+### Open To
+
+**Software Engineering Internships • SDE Roles • AI/ML Engineering • Full Stack Engineering • Backend Engineering • Open Source Collaboration**
+
+---
+
+## TECH STACK
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,bash" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,firebase" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,vercel,netlify" />
+</p>
+
+---
+
+## AI / ML EXPERTISE
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Machine Learning | 🟣 Advanced | Supervised learning, model evaluation, feature engineering and applied ML |
+| Artificial Intelligence | 🟣 Advanced | Intelligent systems, problem solving, search and AI application design |
+| Deep Learning | 🟣 Intermediate | Neural-network fundamentals and deep-learning workflows |
+| Computer Vision | 🟣 Intermediate | Image processing, OpenCV and vision-based applications |
+| NLP | 🟣 Intermediate | Natural-language processing fundamentals and intelligent text workflows |
+| Generative AI | 🟣 Intermediate | LLM-powered applications, AI workflows and product integration |
+| Data Processing | 🟣 Advanced | Data preparation, analysis and transformation pipelines |
+| Model Deployment | 🟣 Intermediate | Integrating ML models into usable software systems |
+
+---
+
+## FEATURED PROJECTS
+
+<details>
+<summary><b>🛒 GoCart — Full-Stack E-Commerce Platform</b></summary>
+
+<br/>
+
+| Engineering Dimension | Implementation |
+|:---|:---|
+| **Stack** | Next.js • Tailwind CSS • JavaScript • Full-Stack Web Architecture |
+| **Scale** | Designed around modular, scalable e-commerce architecture |
+| **Performance** | Responsive UI, reusable components and optimized frontend structure |
+| **Security** | Structured application architecture with secure backend integration patterns |
+| **Impact** | Designed to provide a production-oriented foundation for online stores and marketplaces |
+| **Repository** | [View Repository](https://github.com/keshavkapil15/GoCart-Eshop) |
+
+### Engineering Overview
+
+GoCart is a modern e-commerce application focused on **scalable frontend architecture, reusable UI components and maintainable application structure**.
+
+The project demonstrates practical product-engineering concepts including responsive interfaces, component-driven development, marketplace-oriented architecture and modern frontend tooling.
+
+</details>
+
+<details>
+<summary><b>⚙️ CPU Scheduling & Algorithm Analysis Engine</b></summary>
+
+<br/>
+
+| Engineering Dimension | Implementation |
+|:---|:---|
+| **Stack** | C++ • Operating Systems • Algorithms • Gnuplot |
+| **Scale** | Supports multiple processes and scheduling workloads |
+| **Performance** | FCFS • SJF • SRTF • Round Robin analysis |
+| **Security** | Deterministic input-driven execution and controlled processing |
+| **Impact** | Compares scheduling strategies using waiting time, turnaround time and CPU utilization |
+| **Repository** | [Explore Projects](https://github.com/keshavkapil15?tab=repositories) |
+
+### Engineering Overview
+
+An operating-system-oriented scheduling engine that simulates multiple CPU scheduling algorithms and evaluates their behavior across different process workloads.
+
+The system focuses on **algorithmic correctness, performance comparison, Gantt-chart visualization and workload-based scheduling analysis**.
+
+</details>
+
+<details>
+<summary><b>🧠 AI / ML Application Engineering</b></summary>
+
+<br/>
+
+| Engineering Dimension | Implementation |
+|:---|:---|
+| **Stack** | Python • Machine Learning • Computer Vision • Data Processing |
+| **Scale** | Modular experimentation and application-oriented ML workflows |
+| **Performance** | Focused on efficient preprocessing, inference and application integration |
+| **Security** | Controlled data-processing and application boundaries |
+| **Impact** | Converts ML concepts into practical software applications |
+| **Repository** | [Explore Projects](https://github.com/keshavkapil15?tab=repositories) |
+
+### Engineering Overview
+
+Applied AI/ML work focused on turning machine-learning concepts into usable software systems, including computer-vision workflows, intelligent applications and data-driven automation.
+
+</details>
+
+<details>
+<summary><b>🔬 Compiler Design & Lexical Analysis Engine</b></summary>
+
+<br/>
+
+| Engineering Dimension | Implementation |
+|:---|:---|
+| **Stack** | C++ • Compiler Design • Lexical Analysis • Regular Expressions |
+| **Scale** | Tokenization and source-code analysis workflows |
+| **Performance** | Structured scanning and classification of source tokens |
+| **Security** | Invalid-token and syntax-oriented error detection |
+| **Impact** | Demonstrates compiler fundamentals and language-processing concepts |
+| **Repository** | [Explore Projects](https://github.com/keshavkapil15?tab=repositories) |
+
+### Engineering Overview
+
+A compiler-design-oriented project focused on lexical analysis, token identification, source-code processing and structured error reporting.
+
+The project demonstrates understanding of **tokens, keywords, identifiers, literals, operators, separators, comments and lexical validation**.
+
+</details>
+
+---
+
+## EXPERIENCE
+
+### Software Engineering & Open Source Development
+
+**Independent Engineering Projects**  
+**2024 — Present**
+
+- Designed and implemented software projects across **C++, full-stack development, AI/ML and cloud-oriented workflows**.
+- Applied data structures and algorithms to solve computational and optimization problems.
+- Built modular applications with an emphasis on maintainability, reusable components and clean architecture.
+- Worked with Git and GitHub using practical version-control and repository-management workflows.
+- Explored deployment-oriented development using modern cloud and hosting platforms.
+- Continuously strengthened engineering fundamentals through algorithmic problem solving and project-based development.
+
+**Skills:**  
+`C++` `Java` `Python` `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Spring Boot` `MongoDB` `SQL` `AWS` `Docker` `Git` `GitHub`
+
+---
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 🧩 **Competitive Programming** | Consistent practice across algorithmic problem solving and DSA |
+| 💻 **Software Engineering** | Built projects spanning systems, web development and intelligent applications |
+| 🤖 **AI / ML** | Applied machine-learning and computer-vision concepts to software projects |
+| ☁️ **Cloud Engineering** | Hands-on exploration of cloud platforms, deployment and DevOps tooling |
+| 🌐 **Open Source** | Active GitHub-based development and repository contribution |
+| 🏗️ **Project Engineering** | Focused on transforming academic concepts into practical engineering systems |
+
+</div>
+
+---
+
+## CERTIFICATIONS
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20%26%20Solutions%20Architecture-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Database%20%26%20Cloud-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
+
+---
+
+## CODING PROFILES
+
+<div align="center">
+
+<a href="https://leetcode.com/keshavkapil15/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/keshavkapil15/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E" />
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=22C55E" />
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=FACC15" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/keshavkapil15/">
+<img src="https://leetcard.jacoblin.cool/keshavkapil15?theme=dark&font=Karma&ext=contest" width="650"/>
+</a>
+
+</div>
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshavkapil15&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=keshavkapil15&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkapil15&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+
+</div>
+
+---
+
+## GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=keshavkapil15&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+
+</div>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavkapil15&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/keshavkapil15/keshavkapil15/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced Data Structures & Algorithms
+  - System Design
+  - Backend Engineering
+  - Cloud Architecture
+  - Artificial Intelligence & Machine Learning
+  - Generative AI
+
+Building:
+  - Scalable Full-Stack Applications
+  - AI-powered Software Systems
+  - Backend Services
+  - Open Source Projects
+  - Developer-focused Engineering Tools
+
+Exploring:
+  - Distributed Systems
+  - Microservices
+  - Cloud-Native Architecture
+  - LLM Applications
+  - MLOps
+  - High-Performance Computing
+
+Open To:
+  - Software Engineering Internships
+  - SDE Opportunities
+  - AI/ML Engineering
+  - Backend Engineering
+  - Full-Stack Engineering
+  - Open Source Collaboration
